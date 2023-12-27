@@ -13,8 +13,6 @@ public class TreeOrderLevelTraversal {
         TreeNode root = new TreeNode(3);
         TreeNode leaf1 = new TreeNode(9);
         TreeNode treeNode = new TreeNode(20);
-        TreeNode nullNode = null;
-        TreeNode secondNull = null;
         TreeNode thirdLeaf = new TreeNode(15);
         TreeNode fourthLeaf = new TreeNode(7);
         root.left = leaf1;
